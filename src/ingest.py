@@ -6,7 +6,6 @@ load_dotenv()
 PDF_PATH = os.getenv("PDF_PATH")
 
 def ingest_pdf():
-    print(PDF_PATH)
     pass
 
 
