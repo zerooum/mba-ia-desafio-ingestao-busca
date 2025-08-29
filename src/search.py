@@ -25,5 +25,5 @@ PERGUNTA DO USUÁRIO:
 RESPONDA A "PERGUNTA DO USUÁRIO"
 """
 
-def search_prompt():
+def search_prompt(question=None):
     pass
